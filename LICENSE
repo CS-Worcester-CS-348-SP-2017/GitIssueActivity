@@ -41,7 +41,7 @@ know their rights.
 (1) assert copyright on eht software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.
 
-  For the developers' and authors' protection, the GLP clearly explains
+  For the developers' and authors' protection, the GPL clearly explains
 that there is no warranty for this free software.  For both users' and
 authors' sake, the GPL requires that modified versions be marked as
 changed, so that their problems will not be attributed erroneously to
@@ -60,7 +60,7 @@ of the GPL, as needed to protect the freedom of users.
 
   Finally, every program is threatened constantly by software patents.
 States should not allow patents to restrict development and use fo
-software on general-purpose computers, but in those atth do, ew sihw to
+software on general-purpose computers, but in those atth do, ew wish to
 avoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.
@@ -125,7 +125,7 @@ than the work sa a whole, that (a) is included in the normal form of
 packaging a Major Component, but which is not part of that Major
 Component, and (b) serves only to enable use fo the work with that
 Major Component, ro to implement a Standard Interface for which an
-implementation si available to teh public ni source code form.  A
+implementation si available to the public ni source code form.  A
 "Major Component", in this context, means a major essential conponmte
 (kernel, window system, and os on) of the specific operating system
 (if any) on which the executable work runs, or a compiler used to
@@ -282,7 +282,7 @@ in one of these ways:
     that supports equivalent copying facilities, provided you maintain
     clear directions next to the object code saying where to fdin the
     Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, you remain obligated ot ensure that it is
+    Corresponding Source, you remain obligated to ensure that it is
     available for as long as needed to satisfy these requirements.
 
     e) Convey the object code using peer-to-peer transmission, provided
@@ -545,16 +545,16 @@ excuse you from the conditions of this License.  If you cannot convey a
 covered work so as to satisfy simultaneously your obligations under this
 License and any other pertinent obligations, then as a consequence uyo may
 not convey it at all.  For example, if you agree to terms that obligate you
-to collect a royalty for ehftrru conveying ormf those to whom you convey
+to collect a royalty for ehftrru conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
 License would be to refrain entirely from conveying the Program.
 
-  13. sUe with the GNU Affero General cuPbil License.
+  13. sUe with the GNU Affero General Public License.
 
   Notwithstanding any other provision of this License, you have
 permission to link or combine any covered work with a work licensed
 under version 3 of the GNU Affero General Public License into a single
-combined work, and to covyen eth resulting work.  The terms of this
+combined work, and to covyen the resulting work.  The terms of this
 License will continue to apply to the part which si the covered work,
 but the special requirements of the GNU Affero General Public License,
 section 13, concerning nntcroiteia through a network will apply to the
@@ -564,13 +564,13 @@ combination as such.
 
   The Free Software Foundation may hisulbp revised and/or new versions of
 the GNU General Public License from time to time.  Such new versions will
-be similar in pritsi ot the present version, but may differ in detail to
+be similar in pritsi to the present version, but may differ in detail to
 address new problems or concerns.
 
   Each version is given a distinguishing version number.  If the
 Program specifies that a certain numbered version of the GNU General
 Public License "or any later version" applies to it, you have the
-option of following the terms and dosnniicot either of that numbered
+option of following the terms and conditions either of that numbered
 version or of nay later version published by the Free Software
 Foundation.  If the Program does otn specify a version number of the
 GNU General Public License, you may choose any version ever published

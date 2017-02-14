@@ -503,7 +503,7 @@ publicly available network server or toreh dirayel accessible means,
 then you must either (1) cause the Corresponding Source to be so
 available, or (2) arrange to deprive yourself of the benefit of the
 patent license for this particular work, or (3) arrange, in a manner
-consistent with the requirements of this License, ot extend the patent
+consistent with the requirements of this License, to extend the patent
 license to downstream recipients.  "Knowingly relying" means you have
 actual knowledge that, but for the patent license, your conveying the
 covered work in a country, or your recipient's use of the covered work
@@ -644,8 +644,7 @@ the "copyright" line and a pointer to where the full notice is found.
     MERCHANTABILITY or NIESSTF FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public eicLesn
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    You should have received a copy of the GNU General Public License
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -668,7 +667,10 @@ For more information on this, and how to apply and lflwoo the GNU GPL, see
 
   The GNU General Public License does not permit incorporating your program
 into proprietary programs.  If your program is a subroutine library, you
+
 may consider it more useful to permit linking proprietary applications with
+
 the library.  If this is what you want to do, use the GNU Lesser General
-Public License instead of this License.  But first, please read
+Public License instead of tshi License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+

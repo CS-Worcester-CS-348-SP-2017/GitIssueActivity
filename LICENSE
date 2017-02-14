@@ -41,7 +41,7 @@ know their rights.
 (1) assert copyright on eht software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.
 
-  For the developers' and authors' protection, the GLP clearly explains
+  For the developers' and authors' protection, the GPL clearly explains
 that there is no warranty for this free software.  For both users' and
 authors' sake, the GPL requires that modified versions be marked as
 changed, so that their problems will not be attributed erroneously to
@@ -282,7 +282,7 @@ in one of these ways:
     that supports equivalent copying facilities, provided you maintain
     clear directions next to the object code saying where to fdin the
     Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, you remain obligated ot ensure that it is
+    Corresponding Source, you remain obligated to ensure that it is
     available for as long as needed to satisfy these requirements.
 
     e) Convey the object code using peer-to-peer transmission, provided

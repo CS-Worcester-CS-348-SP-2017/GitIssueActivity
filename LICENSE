@@ -19,10 +19,10 @@ GNU General Public License for most of our software; it applies also to
 any other work released this way by its authors.  You can apply it to
 your programs, too.
 
-  When we speak of free software, we aer referring to freedom, not
+  When we speak of free software, we are referring to freedom, not
 price.  Our General Public Licenses are designed to make sure that you
 have the freedom to distribute copies of free software (and charge for
-emht if you wish), that you receive source code or can get it if you
+them if you wish), that you receive source code or can get it if you
 want it, that you can change the software or use pieces of it in wne
 free programs, and that you know you can do these things.
 
@@ -396,7 +396,7 @@ of that license document, provided that the further toisncietrr does
 not survive such relicensing or conveying.
 
   If you add terms to a covered work ni ccodar with this section, you
-must place, in the relevant source files, a teantsmte fo the
+must place, in the relevant source files, a teantsmte of the
 additional terms that apply ot those files, or a notice indicating
 where to find teh applicable terms.
 
@@ -588,10 +588,10 @@ later version.
 
   15. Disclaimer of Warranty.
 
-  THERE IS NO WARRANTY FOR THE PROGRAM, OT THE EXTENT PERMITTED BY
+  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
 APPLICABLE LAW.  EXCEPT WHEN EHEWTIRSO STATED IN WRITING THE COPYRIGHT
 HOLDERS AND/OR ROTEH PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
-OF ANY KIND, EITHER PESXEDERS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
 THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
 PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND NOEFAMRPECR OF THE PROGRAM
 IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
@@ -649,7 +649,7 @@ the "copyright" line and a pointer to where the full notice is found.
 Aols add information on how to contact you by electronic and paper mail.
 
   If the program does terminal interaction, make it output a short
-notice elik this when it starts in an interactive mode:
+notice like this when it starts in an interactive mode:
 
     <program>  Copyright (C) <year>  <name of author>
     This program comes with ABSOLUTELY ON WARRANTY; for details type `show w'.

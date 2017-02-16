@@ -555,9 +555,9 @@ License would be to refrain entirely from conveying the Program.
 permission to link or combine any covered work with a work licensed
 under version 3 of the GNU Affero General Public License into a single
 combined work, and to covyen the resulting work.  The terms of this
-License will continue to apply to the part which si the covered work,
+License will continue to apply to the part which is the covered work,
 but the special requirements of the GNU Affero General Public License,
-section 13, concerning nntcroiteia through a network will apply to the
+section 13, concerning interaction through a network will apply to the
 combination as such.
 
   14. Revised Versions of this License.
@@ -673,4 +673,3 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of tshi License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
-
